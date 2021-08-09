@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="BTS" targetName="BTS" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8881a6e-0635-4af9-a3fd-8bc6d8855339" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1Tbkd5kYfslzDyQr9gd7kRRLCNv" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/data/route" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BTS" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="--algo scoresel" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BTS" TARGET_NAME="BTS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BTS" RUN_TARGET_NAME="BTS">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8881a6e-0635-4af9-a3fd-8bc6d8855339" name="Default Changelist" comment="" />
+      <created>1573736267267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573736267267</updated>
+      <workItem from="1573736271037" duration="15427000" />
+      <workItem from="1573821237648" duration="3107000" />
+      <workItem from="1573887269778" duration="6436000" />
+      <workItem from="1574077072724" duration="6553000" />
+      <workItem from="1574144086805" duration="905000" />
+      <workItem from="1574145253643" duration="8378000" />
+      <workItem from="1574215450884" duration="1293000" />
+      <workItem from="1574387562195" duration="337000" />
+      <workItem from="1575256288602" duration="19974000" />
+      <workItem from="1575361743592" duration="9492000" />
+      <workItem from="1575449319685" duration="592000" />
+      <workItem from="1575509953593" duration="39522000" />
+      <workItem from="1575855053667" duration="17921000" />
+      <workItem from="1576067641948" duration="42805000" />
+      <workItem from="1577632366346" duration="151000" />
+      <workItem from="1577632768417" duration="16000" />
+      <workItem from="1584169984072" duration="127000" />
+      <workItem from="1584170195084" duration="237000" />
+      <workItem from="1584170483806" duration="499000" />
+      <workItem from="1584239630003" duration="3339000" />
+      <workItem from="1590117520525" duration="16297000" />
+      <workItem from="1590401794284" duration="5461000" />
+      <workItem from="1590412934515" duration="406000" />
+      <workItem from="1590464754273" duration="46483000" />
+      <workItem from="1590686489510" duration="2041000" />
+      <workItem from="1609917669016" duration="939000" />
+      <workItem from="1609918694334" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="OCSymbolicBreakpointType">
+          <properties>
+            <option name="symbolPattern" value="malloc_error_break" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
